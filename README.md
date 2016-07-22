@@ -1,9 +1,4 @@
 # Grunt Basic Theme
-It contains:
-  - Uglify
-  - Less
-  - CSSMin
-  - Watch
 
 ### Installation
 
