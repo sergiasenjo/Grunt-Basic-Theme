@@ -11,8 +11,8 @@ $ sudo npm install -g grunt
 ```
 
 ```sh
-$ git clone https://github.com/sergiasenjo/Grunt-Basic-Theme.git project
-$ cd project
+$ git clone https://github.com/sergiasenjo/Grunt-Basic-Theme.git project-name
+$ cd project-name
 $ npm install
 $ grunt -v
 ```
